@@ -1,0 +1,6 @@
+util\PersistenceUtil.class
+repo\ArtistRepository.class
+entity\Album.class
+app\AlbumManager.class
+repo\AlbumRepository.class
+entity\Artist.class
